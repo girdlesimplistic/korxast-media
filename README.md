@@ -1,3 +1,3 @@
-# KORXAST media
+# Public video files for scheduled Instagram posts
 
-Public video files for scheduled Instagram posts (KORXAST × Таърих).
+Suxbat «Қиссаи калима» series. Files are served by GitHub Pages for Buffer scheduling.
